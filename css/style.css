@@ -1,0 +1,92 @@
+.beep {
+    position: relative;
+    min-width: 100%;
+    padding: 10px;
+    margin: 20px 0px;
+    border: 1px solid red;
+}
+
+.radius {
+    border-radius: 10px;
+}
+
+.author {
+    display: inline-block;
+}
+.authorName {
+    font-weight: 700;
+    display: inline;
+    margin-right: 10px;
+    color: #6ec1d6;
+}
+.authorHandle {
+    display: inline;
+    margin-right: 10px;
+    color: #f692b2;
+}
+
+.beep .time {
+    display: inline-block;
+    font-size: 12px;;
+}
+
+.message {
+    margin: 0px;
+    padding-top: 10px
+}
+#beepBox {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    position: relative;
+    min-width: 100%;
+    position: relative;
+    min-width: 100%;
+    padding: 10px;
+    border: 1px solid red;
+}
+.beepInput {
+    float: left;
+}
+.beepButton {
+    float: right;
+}
+
+#footer {
+    margin-bottom: 50px;
+}
+#header {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    position: relative;
+    min-width: 100%;
+    position: relative;
+    min-width: 100%;
+    padding: 10px;
+    border: 1px solid red;
+}
+
+.page-footer {
+    margin-top: 150px;
+}
+
+.material-icons {
+    color: #fff;
+    font-size: 18px;
+    line-height: 5px;
+}
+.liked {
+    color: #ffab40;
+}
+
+.beepsTime {
+    float: right;
+    color: #999;
+}
+
+.likesCounter {
+    position: relative;
+    display: inline-block;
+    color: #ffab40;
+    clear: both;
+    padding-left: 10px;
+}
